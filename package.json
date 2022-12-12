@@ -21,6 +21,6 @@
   "homepage": "https://github.com/abdimussa87/pluralsight-js-dev-env#readme",
   "dependencies": {
     "chalk": "^4.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
